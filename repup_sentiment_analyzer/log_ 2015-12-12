@@ -1,0 +1,41 @@
+Modified Text: We conducted a conference here for two days, 
+Parsing Text: We conducted a conference here for two days, 
+______________________nmod_________________________
+ Value: days Index: 8
+ Value: conference Index: 4
+______________________nsubj_________________________
+ Value: We Index: 1
+ Value: conducted Index: 2
+Modified Text: We conducted a conference here for two days, 
+Parsing Text: We conducted a conference here for two days, 
+______________________nmod_________________________
+______________________nsubj_________________________
+Modified Text: We conducted a conference here for two days, 
+Parsing Text: We conducted a conference here for two days, 
+______________________nmod_________________________
+______________________nsubj_________________________
+Modified Text: We conducted a conference here for two days, 
+Parsing Text: We conducted a conference here for two days, 
+______________________nmod_________________________
+______________________nsubj_________________________
+Modified Text: We conducted a conference here for two days, 
+Parsing Text: We conducted a conference here for two days, 
+______________________nmod_________________________
+______________________nsubj_________________________
+nmod : []
+nsubj : [We conducted]
+Modified Text: We conducted a conference here for two days, 
+Parsing Text: We conducted a conference here for two days, 
+______________________nmod_________________________
+______________________nsubj_________________________
+nmod : [conference here for two days]
+nsubj : [We conducted]
+Modified Text: We conducted a conference here for two days, 
+Parsing Text: We conducted a conference here for two days, 
+______________________nmod_________________________
+______________________nsubj_________________________
+nmod : [conference here for two days]
+nsubj : [We conducted]
+Creating Sentiment for :Wi-Fi service promised but not available.
+Got nothing: on Wi-Fi service promised but not available.
+Creating Sentiment for :Wi-Fi service promised but not available.

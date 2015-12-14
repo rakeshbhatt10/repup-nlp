@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+.review_content
+{
+	height: 600;
+	overflow: scroll;
+	background-color: rgb(84,84,84);
+}
+
+.loading { border:1px solid #ddd; padding:20px; margin:40px 5px; width:80px;}
+
+.review
+{
+	margin:10;
+}
+
+.review_date
+{
+	font-size: 14 px;
+}
+
+.review_date  span
+{
+	
+}
+.review_desc{
+	font-size: 18 px;
+	padding:5 px;
+
+}
+.review_desc span
+{
+	
+	font-size:12 px;
+}
+.review_title
+{
+	font-weight: 500;
+	font-size:18 px;
+}
+.review_author
+{
+	font-weight: 500;
+	font-size: 12 px;
+}
